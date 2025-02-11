@@ -324,11 +324,10 @@ average.
 # Step 3 | Change per condition 
 
 In the following, names are given to genes of mutants with more than 2-fold and
-significantly changed fitness (sometimes, it is too crowded for all names
-though).
+significantly changed fitness.
 
-One could speculate that the stronger effect of a drug, as for nitro2 vs nitro
-1 was beneficial to elucidate the phenotype.
+One could speculate that the stronger effect of a drug, as for nitro2 vs nitro1
+was beneficial to elucidate the phenotype.
 
 ## Opacity
 

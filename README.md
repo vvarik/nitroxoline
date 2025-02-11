@@ -10,7 +10,8 @@
 
 # Introduction
 
-Analysis for nitroxoline chemical genetics [*Cacace et al 2025*](https://www.biorxiv.org/content/10.1101/2024.06.04.597298v1).
+Analysis for nitroxoline chemical genetics [*Cacace et al
+2025*](https://www.biorxiv.org/content/10.1101/2024.06.04.597298v1).
 
 # Look at raw data
 
@@ -46,11 +47,10 @@ on average.
 # Step 3 | Change per condition
 
 In the following, names are given to genes of mutants with more than
-2-fold and significantly changed fitness (sometimes, it is too crowded
-for all names though).
+2-fold and significantly changed fitness.
 
 One could speculate that the stronger effect of a drug, as for nitro2 vs
-nitro 1 was beneficial to elucidate the phenotype.
+nitro1 was beneficial to elucidate the phenotype.
 
 ## Opacity
 
