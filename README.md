@@ -11,7 +11,7 @@
 # Introduction
 
 Analysis for nitroxoline chemical genetics [*Cacace et al
-2025*](https://www.biorxiv.org/content/10.1101/2024.06.04.597298v1).
+2025*](https://doi.org/10.1038/s41467-025-58730-5).
 
 # Look at raw data
 
